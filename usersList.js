@@ -27,6 +27,6 @@ module.exports = [
     name: 'Eamon',
     username: 'bowieSpanker',
     avatar_url:
-      'https://www.deviantart.com/gagambo/art/David-Bowie-spanking-Ziggy-Stardust-401383869'
+      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9bb2f689-28c8-457b-874c-aa1d8fc2ef26/d6mz1rx-37838a08-115c-4eba-8583-669dd4a3eba9.jpg/v1/fill/w_1600,h_1750,q_75,strp/david_bowie_spanking_ziggy_stardust_by_gagambo_d6mz1rx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc1MCIsInBhdGgiOiJcL2ZcLzliYjJmNjg5LTI4YzgtNDU3Yi04NzRjLWFhMWQ4ZmMyZWYyNlwvZDZtejFyeC0zNzgzOGEwOC0xMTVjLTRlYmEtODU4My02NjlkZDRhM2ViYTkuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.e-DbOXy7h3ul13PgFtpJPGJwYXGGa4NEsWHlR9te03E'
   }
 ];
