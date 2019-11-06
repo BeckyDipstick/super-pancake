@@ -5,7 +5,12 @@ function makeASuperPancake(superEggs, superFlour, superMilk) {
 }
 
 function makeASuperWaffle(secretIngredients) {
-  mi5.secretIngredients().then((recipe) => {
+  mi5.secretIngredients().then(recipe => {
     return recipe;
   });
 }
+
+module.exports = {
+  makeASuperPancake,
+  makeASuperWaffle
+};
