@@ -1,7 +1,7 @@
 // testing my first feature branch
 
-function makeASuperPancake(superEggs, superFlour, superMilk) {
-  return 2 * superEggs + 100 * superFlour + 300 * superMilk;
+function makeFightMilk(crowsEggs, vodka, milk) {
+  return 2 * crowsEggs + 100 * vodka + 300 * milk;
 }
 
 function makeASuperWaffle(secretIngredients) {
@@ -11,6 +11,6 @@ function makeASuperWaffle(secretIngredients) {
 }
 
 module.exports = {
-  makeASuperPancake,
+  makeFightMilk,
   makeASuperWaffle
 };
